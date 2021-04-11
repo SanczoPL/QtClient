@@ -181,3 +181,13 @@ build/x64/Debug/ZERO_CHECK/ZERO_CHECK.tlog/CustomBuild.command.1.tlog
 build/x64/Debug/ZERO_CHECK/ZERO_CHECK.tlog/CustomBuild.read.1.tlog
 build/x64/Debug/ZERO_CHECK/ZERO_CHECK.tlog/CustomBuild.write.1.tlog
 build/x64/Debug/ZERO_CHECK/ZERO_CHECK.tlog/ZERO_CHECK.lastbuildstate
+build/.vs/QtClient/v16/ipch/AutoPCH/2c06aba8fef02a7f/MQTMESSAGE.ipch
+build/bin/Debug/translations/qt_tr.qm
+build/CMakeFiles/0234bb5439610d2a21b494a93e17ffc7/generate.stamp.rule
+build/CMakeFiles/0234bb5439610d2a21b494a93e17ffc7/INSTALL_force.rule
+build/QtClient_app_autogen/include_Debug/6YEA5652QU/moc_broadcaster.cpp.d
+build/QtClient_app_autogen/include_Debug/6YEA5652QU/moc_mqt.cpp.d
+build/QtClient_app_autogen/include_Debug/6YEA5652QU/moc_mqtsockio.cpp.d
+build/QtClient_autogen/include_Debug/6YEA5652QU/moc_broadcaster.cpp.d
+build/QtClient_autogen/include_Debug/6YEA5652QU/moc_mqt.cpp.d
+build/QtClient_autogen/include_Debug/6YEA5652QU/moc_mqtsockio.cpp.d

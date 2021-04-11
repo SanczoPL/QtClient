@@ -11,7 +11,7 @@ public:
 	MQtMessage(QByteArray const& a_data);
 	~MQtMessage();
 
-	enum MessageType { JSON = 1, BINARY = 2 };
+	enum MessageType { PING = 0, JSON = 1, BINARY = 2 };
 	static int validate(QByteArray const& a_data);
 	static bool checkPrefix(QByteArray const& a_data);
 	static MQtMessage& createFromRaw(QByteArray const& a_data);

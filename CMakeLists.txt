@@ -22,7 +22,7 @@ configure_file(client.json ${CMAKE_BINARY_DIR}/bin/${CMAKE_BUILD_TYPE}/client.js
 
 if (WIN32)
 	list(APPEND CMAKE_PREFIX_PATH "E:\\repo\\opencvBuild")
-	list(APPEND CMAKE_PREFIX_PATH "E:\\Qt\\5.12.8\\msvc2017_64")
+	list(APPEND CMAKE_PREFIX_PATH "E:\\Qt\\5.15.2\\msvc2019_64")
 	list(APPEND CMAKE_PREFIX_PATH "E:\\repo\\spdlog\\build\\install")
 	list(APPEND CMAKE_PREFIX_PATH "E:\\repo\\IncludeSpdlog\\build\\install")
 	list(APPEND CMAKE_PREFIX_PATH "E:\\repo\\ConfigReader\\build\\install")
